@@ -1,7 +1,7 @@
 /*
 	Programa: Tomada de Decisão
 	Autor: Gabriel "Montanha"
-	Data: Criado em 24 de fevereiro para demonstrar a implementação
+	Data: Criado em 24/02/2025
 	Descrição: Programa criado para demonstrar a implementação de todos os Laços de Repetição juntamente com Tomada de Decisão
 
 */
